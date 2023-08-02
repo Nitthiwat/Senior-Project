@@ -1,0 +1,30 @@
+{
+    "Apple": [
+        {
+            "Model": "iPhone14",
+            "Count_comment": 3000,
+            "Camera": "16 ล้านพิกเซล",
+            "Storage": "16GB"
+        },
+        {
+            "Model": "iPhone14 Pro",
+            "Count_comment": 1200,
+            "Camera": "16 ล้านพิกเซล",
+            "Storage": "16GB"
+        }
+    ],
+    "Samsung": [
+        {
+            "Model": "Samsung Galaxy S23",
+            "Count_comment": 1200,
+            "Camera": "20 ล้านพิกเซล",
+            "Storage": "32GB"
+        },
+        {
+            "Model": "Samsung Galaxy S23 Ultra",
+            "Count_comment": 500,
+            "Camera": "20 ล้านพิกเซล",
+            "Storage": "32GB"
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+{
+    "iPhone 6": [
+        "ip6",
+        "i6",
+        "iphone6"
+    ],
+    "iPhone 6 Plus": [
+        "6plus",
+        "6p",
+        "iphone6p",
+        "iphone6plus",
+        "i6p",
+        "i6plus",
+        "6+",
+        "ip6+"
+    ],
+    "iPhone 6s": [
+        "ip6s",
+        "i6s",
+        "6s",
+        "iphone6s",
+        "ไอโฟน6"
+    ],
+    "iPhone 6s Plus": [
+        "6splus",
+        "6sp",
+        "iphone6sp",
+        "iphone6splus",
+        "i6sp",
+        "i6splus",
+        "i6s+",
+        "ip6s+"
+    ],
+    "iPhone 7": [
+        "ip7",
+        "i7",
+        "iphone7"
+    ],
+    "iPhone 7 Plus": [
+        "7plus",
+        "7p",
+        "iphone7p",
+        "iphone7plus",
+        "i7p",
+        "i7plus",
+        "7+",
+        "ip7+",
+        "ไอโฟน7+"
+    ],
+    "iPhone 8": [
+        "ip8",
+        "i8",
+        "iphone8"
+    ],
+    "iPhone 8 Plus": [
+        "8plus",
+        "8p",
+        "iphone8p",
+        "iphone8plus",
+        "i8p",
+        "i8plus",
+        "8+",
+        "ip8+"
+    ],
+    "iPhone X": [
+        "iphone10",
+        "i10",
+        "iphonex",
+        "ip10",
+        "ix",
+        "ipx"
+    ],
+    "iPhone XR": [
+        "iphonexr",
+        "xr",
+        "ixr",
+        "ipxr"
+    ],
+    "iPhone XS": [
+        "iphonexs",
+        "xs",
+        "ixs",
+        "ipxs"
+    ],
+    "iPhone XS Max": [
+        "iphonexsmax",
+        "xsmax",
+        "ixsmax",
+        "ipxsmax"
+    ],
+    "iPhone 11": [
+        "ip11",
+        "i11",
+        "iphone11"
+    ],
+    "iPhone 11 Pro": [
+        "ip11pro",
+        "i11pro",
+        "11pro",
+        "iphone11pro",
+        "ip11p",
+        "i11p",
+        "11p"
+    ],
+    "iPhone 11 Pro Max": [
+        "11promax",
+        "i11promax",
+        "iphone11promax"
+    ],
+    "iPhone 12": [
+        "ip12",
+        "i12",
+        "iphone12"
+    ],
+    "iPhone 12 Mini": [
+        "ip12mini",
+        "i12mini",
+        "12mini",
+        "iphone12mini"
+    ],
+    "iPhone 12 Pro": [
+        "ip12pro",
+        "i12pro",
+        "12pro",
+        "iphone12pro",
+        "ip12p",
+        "i12p",
+        "12p"
+    ],
+    "iPhone 12 Pro Max": [
+        "12promax",
+        "i12promax",
+        "iphone12promax",
+        "12pm"
+    ],
+    "iPhone 13": [
+        "ip13",
+        "i13",
+        "iphone13"
+    ],
+    "iPhone 13 Mini": [
+        "ip13mini",
+        "i13mini",
+        "13mini",
+        "iphone13mini"
+    ],
+    "iPhone 13 Pro": [
+        "ip13pro",
+        "i13pro",
+        "13pro",
+        "iphone13pro",
+        "ip13p",
+        "i13p",
+        "13p"
+    ],
+    "iPhone 13 Pro Max": [
+        "ip13promax",
+        "13promax",
+        "i13promax",
+        "iphone13promax",
+        "13pm",
+        "ip13pm",
+        "13โปรแม็ก"
+    ],
+    "iPhone 14": [
+        "ip14",
+        "i14",
+        "iphone14"
+    ],
+    "iPhone 14 Plus": [
+        "ip14plus",
+        "14plus",
+        "iphone14plus",
+        "i14plus",
+        "14+",
+        "ip14+",
+        "14พลัส"
+    ],
+    "iPhone 14 Pro": [
+        "ip14p",
+        "14p",
+        "iphone14p",
+        "i14p",
+        "14pro"
+    ],
+    "iPhone 14 Pro Max": [
+        "ip14promax",
+        "14promax",
+        "i14promax",
+        "iphone14promax",
+        "14pm"
+    ],
+    "Samsung Galaxy XCover5": [
+        "xcover5",
+        "ssxcover5",
+        "galaxyxcover5",
+        "samsungxcover5",
+        "samsunggalaxyxcover5"
+    ],
+    "Samsung Galaxy XCover6": [
+        "xcover6",
+        "ssxcover6",
+        "galaxyxcover6",
+        "samsungxcover6",
+        "samsunggalaxyxcover6"
+    ],
+    "Samsung Galaxy W22": [
+        "w22",
+        "samsungw22",
+        "ssw22",
+        "samsunggalaxyw22",
+        "galaxyw22"
+    ],
+    "Samsung Galaxy F13": [
+        "f13",
+        "samsungf13",
+        "ssf13",
+        "samsunggalaxyf13",
+        "galaxyf13"
+    ],
+    "Samsung Galaxy F22": [
+        "f22",
+        "samsungf22",
+        "ssf22",
+        "samsunggalaxyf22",
+        "galaxyf22"
+    ],
+    "Samsung Galaxy F23": [
+        "f23",
+        "samsungf23",
+        "ssf23",
+        "samsunggalaxyf23",
+        "galaxyf23"
+    ],
+    "Samsung Galaxy F42": [
+        "f42",
+        "samsungf42",
+        "ssf42",
+        "samsunggalaxyf42",
+        "galaxyf42"
+    ],
+    "Samsung Galaxy F52": [
+        "f52",
+        "samsungf52",
+        "ssf52",
+        "samsunggalaxyf52",
+        "galaxyf52"
+    ],
+    "Samsung Galaxy F62": [
+        "f62",
+        "samsungf62",
+        "ssf62",
+        "samsunggalaxyf62",
+        "galaxyf62"
+    ],
+    "Samsung Galaxy M02": [
+        "m02",
+        "samsungm02",
+        "ssm02",
+        "samsunggalaxym02",
+        "galaxym02"
+    ],
+    "Samsung Galaxy M02s": [
+        "m02s",
+        "samsungm02s",
+        "ssm02s",
+        "samsunggalaxym02s",
+        "galaxym02s"
+    ],
+    "Samsung Galaxy M04": [
+        "m04",
+        "samsungm04",
+        "ssm04",
+        "samsunggalaxym04",
+        "galaxym04"
+    ],
+    "Samsung Galaxy M12": [
+        "m12",
+        "samsungm12",
+        "ssm12",
+        "samsunggalaxym12",
+        "galaxym12"
+    ],
+    "Samsung Galaxy M13": [
+        "m13",
+        "samsungm13",
+        "ssm13",
+        "samsunggalaxym13",
+        "galaxym13"
+    ],
+    "Samsung Galaxy M21": [
+        "m21",
+        "samsungm21",
+        "ssm21",
+        "samsunggalaxym21",
+        "galaxym21"
+    ],
+    "Samsung Galaxy M22": [
+        "m22",
+        "samsungm22",
+        "ssm22",
+        "samsunggalaxym22",
+        "galaxym22"
+    ],
+    "Samsung Galaxy M23": [
+        "m23",
+        "samsungm23",
+        "ssm23",
+        "samsunggalaxym23",
+        "galaxym23"
+    ],
+    "Samsung Galaxy M32": [
+        "m32",
+        "samsungm32",
+        "ssm32",
+        "samsunggalaxym32",
+        "galaxym32"
+    ],
+    "Samsung Galaxy M33": [
+        "m33",
+        "samsungm33",
+        "ssm33",
+        "samsunggalaxym33",
+        "galaxym33"
+    ],
+    "Samsung Galaxy M42": [
+        "m42",
+        "samsungm42",
+        "ssm42",
+        "samsunggalaxym42",
+        "galaxym42"
+    ],
+    "Samsung Galaxy M52": [
+        "m52",
+        "samsungm52",
+        "ssm52",
+        "samsunggalaxym52",
+        "galaxym52"
+    ],
+    "Samsung Galaxy M53": [
+        "m53",
+        "samsungm53",
+        "ssm53",
+        "samsunggalaxym53",
+        "galaxym53"
+    ],
+    "Samsung Galaxy M62": [
+        "m62",
+        "samsungm62",
+        "ssm62",
+        "samsunggalaxym62",
+        "galaxym62"
+    ],
+    "Samsung Galaxy A03": [
+        "a03",
+        "samsunga03",
+        "ssa03",
+        "samsunggalaxya03",
+        "galaxya03"
+    ],
+    "Samsung Galaxy A03s": [
+        "a03s",
+        "samsunga03s",
+        "ssa03s",
+        "samsunggalaxya03s",
+        "galaxya03s"
+    ],
+    "Samsung Galaxy A04": [
+        "a04",
+        "samsunga04",
+        "ssa04",
+        "samsunggalaxya04",
+        "galaxya04"
+    ],
+    "Samsung Galaxy A04e": [
+        "a04e",
+        "samsunga04e",
+        "ssa04e",
+        "samsunggalaxya04e",
+        "galaxya04e"
+    ],
+    "Samsung Galaxy A04s": [
+        "a04s",
+        "samsunga04s",
+        "ssa04s",
+        "samsunggalaxya04s",
+        "galaxya04s"
+    ],
+    "Samsung Galaxy A13": [
+        "a13",
+        "samsunga13",
+        "ssa13",
+        "samsunggalaxya13",
+        "galaxya13"
+    ],
+    "Samsung Galaxy A22": [
+        "a22",
+        "samsunga22",
+        "ssa22",
+        "samsunggalaxya22",
+        "galaxya22"
+    ],
+    "Samsung Galaxy A23": [
+        "a23",
+        "samsunga23",
+        "ssa23",
+        "samsunggalaxya23",
+        "galaxya23"
+    ],
+    "Samsung Galaxy A32": [
+        "a32",
+        "samsunga32",
+        "ssa32",
+        "samsunggalaxya32",
+        "galaxya32"
+    ],
+    "Samsung Galaxy A33": [
+        "a33",
+        "samsunga33",
+        "ssa33",
+        "samsunggalaxya33",
+        "galaxya33"
+    ],
+    "Samsung Galaxy A52": [
+        "a52",
+        "samsunga52",
+        "ssa52",
+        "samsunggalaxya52",
+        "galaxya52"
+    ],
+    "Samsung Galaxy A52s": [
+        "a52s",
+        "samsunga52s",
+        "ssa52s",
+        "samsunggalaxya52s",
+        "galaxya52s"
+    ],
+    "Samsung Galaxy A53": [
+        "a53",
+        "samsunga53",
+        "ssa53",
+        "samsunggalaxya53",
+        "galaxya53"
+    ],
+    "Samsung Galaxy A72": [
+        "a72",
+        "samsunga72",
+        "ssa72",
+        "samsunggalaxya72",
+        "galaxya72"
+    ],
+    "Samsung Galaxy A73": [
+        "a73",
+        "samsunga73",
+        "ssa73",
+        "samsunggalaxya73",
+        "galaxya73"
+    ],
+    "Samsung Z Fold 3": [
+        "samsungfold3",
+        "zfold3",
+        "fold3",
+        "samsungzfold3"
+    ],
+    "Samsung Z Fold 4": [
+        "samsungfold4",
+        "zfold4",
+        "fold4",
+        "samsungzfold4"
+    ],
+    "Samsung Z Flip 3": [
+        "samsungflip3",
+        "zflip3",
+        "flip3",
+        "samsungzflip3"
+    ],
+    "Samsung Z Flip 4": [
+        "samsungflip4",
+        "zflip4",
+        "flip4",
+        "samsungzflip4"
+    ],
+    "Samsung Galaxy S21": [
+        "s21",
+        "samsungs21",
+        "samsunggalaxys21",
+        "galaxys21"
+    ],
+    "Samsung Galaxy S21 Plus": [
+        "s21plus",
+        "s21+",
+        "samsunggalaxys21plus",
+        "samsunggalaxys21+",
+        "21+",
+        "21plus",
+        "samsungs21plus",
+        "samsungs21+",
+        "galaxys21+",
+        "galaxys21plus"
+    ],
+    "Samsung Galaxy S21 Ultra": [
+        "s21ultra",
+        "s21u",
+        "s21ult",
+        "samsunggalaxys21ultra",
+        "samsunggalaxys21u",
+        "21u",
+        "21ultra",
+        "21ult",
+        "ss21u",
+        "ss21ultra",
+        "galaxys21u",
+        "galaxys21ultra"
+    ],
+    "Samsung Galaxy S21 FE": [
+        "s21fe",
+        "samsungs21fe",
+        "21fe",
+        "samsunggalaxys21fe",
+        "galaxys21fe"
+    ],
+    "Samsung Galaxy S22": [
+        "s22",
+        "samsungs22",
+        "samsunggalaxys22",
+        "galaxys22"
+    ],
+    "Samsung Galaxy S22 Plus": [
+        "s22plus",
+        "s22+",
+        "samsunggalaxys22plus",
+        "samsunggalaxys22+",
+        "22+",
+        "22plus",
+        "samsungs22plus",
+        "samsungs22+",
+        "galaxys22+",
+        "galaxys22plus"
+    ],
+    "Samsung Galaxy S22 Ultra": [
+        "s22ultra",
+        "s22u",
+        "s22ult",
+        "samsunggalaxys22ultra",
+        "samsunggalaxys22u",
+        "22u",
+        "22ultra",
+        "22ult",
+        "ss22u",
+        "ss22ultra",
+        "galaxys22u",
+        "galaxys22ultra"
+    ],
+    "Samsung Galaxy S23": [
+        "s23",
+        "samsungs23",
+        "samsunggalaxys23",
+        "galaxys23"
+    ],
+    "Samsung Galaxy S23 Plus": [
+        "s23plus",
+        "s23+",
+        "samsunggalaxys23plus",
+        "samsunggalaxys23+",
+        "23+",
+        "23plus",
+        "samsungs23plus",
+        "samsungs23+",
+        "galaxys23+",
+        "galaxys23plus"
+    ],
+    "Samsung Galaxy S23 Ultra": [
+        "s23ultra",
+        "s23u",
+        "s23ult",
+        "samsunggalaxys23ultra",
+        "samsunggalaxys23u",
+        "23u",
+        "23ultra",
+        "23ult",
+        "ss23u",
+        "ss23ultra",
+        "galaxys23u",
+        "galaxys23ultra"
+    ],
+    "OPPO A1 Pro": [
+        "a1pro",
+        "oppoa1pro"
+    ],
+    "OPPO A11s": [
+        "oppoa11s",
+        "a11s"
+    ],
+    "OPPO A15": [
+        "oppoa15",
+        "a15"
+    ],
+    "OPPO A15s": [
+        "oppoa15s",
+        "a15s"
+    ],
+    "OPPO A16": [
+        "oppoa16",
+        "a16"
+    ],
+    "OPPO A16 K": [
+        "oppoa16k",
+        "a16k"
+    ],
+    "OPPO A17": [
+        "oppoa17",
+        "a17"
+    ],
+    "OPPO A17 K": [
+        "oppoa17k",
+        "a17k"
+    ],
+    "OPPO A35": [
+        "oppoa35",
+        "a35"
+    ],
+    "OPPO A36": [
+        "oppoa36",
+        "a36"
+    ],
+    "OPPO A53": [
+        "oppoa53",
+        "a53"
+    ],
+    "OPPO A53s 5G": [
+        "oppoa53s5g",
+        "a53s5g"
+    ],
+    "OPPO A54": [
+        "oppoa54",
+        "a54"
+    ],
+    "OPPO A55": [
+        "oppoa55",
+        "a55"
+    ],
+    "OPPO A55 4G": [
+        "oppoa554g",
+        "a554g"
+    ],
+    "OPPO A55 5G": [
+        "oppoa555g",
+        "a555g"
+    ],
+    "OPPO A56 5G": [
+        "oppoa565g",
+        "a565g"
+    ],
+    "OPPO A56s": [
+        "oppoa56s",
+        "a56s"
+    ],
+    "OPPO A57": [
+        "a57",
+        "ออปโปเอ57",
+        "oppoa57"
+    ],
+    "OPPO A57 5G": [
+        "oppoa575g",
+        "a575g"
+    ],
+    "OPPO A58": [
+        "oppoa58",
+        "a58"
+    ],
+    "OPPO A58x": [
+        "oppoa58x",
+        "a58x"
+    ],
+    "OPPO A74 4G": [
+        "oppoa744g",
+        "a744g"
+    ],
+    "OPPO A74 5G": [
+        "oppoa745g",
+        "a745g"
+    ],
+    "OPPO A76": [
+        "oppoa76",
+        "a76"
+    ],
+    "OPPO A77 4G": [
+        "oppoa774g",
+        "a774g"
+    ],
+    "OPPO A77 5G": [
+        "oppoa775g",
+        "a775g"
+    ],
+    "OPPO A77s": [
+        "oppoa77s",
+        "a77s"
+    ],
+    "OPPO A78": [
+        "oppoa78",
+        "a78"
+    ],
+    "OPPO A78 5G": [
+        "oppoa785g",
+        "a785g"
+    ],
+    "OPPO A93 5G": [
+        "oppoa935g",
+        "a935g"
+    ],
+    "OPPO A93s 5G": [
+        "oppoa93s5g",
+        "a93s5g"
+    ],
+    "OPPO A94": [
+        "oppoa94",
+        "a94"
+    ],
+    "OPPO A94 5G": [
+        "oppoa945g",
+        "a945g"
+    ],
+    "OPPO A95": [
+        "oppoa95",
+        "a95"
+    ],
+    "OPPO A96": [
+        "oppoa96",
+        "a96"
+    ],
+    "OPPO A96 5G": [
+        "oppoa965g",
+        "a965g"
+    ],
+    "OPPO A97 5G": [
+        "oppoa975g",
+        "a975g"
+    ],
+    "OPPO A98 5G": [
+        "oppoa985g",
+        "a985g"
+    ],
+    "OPPO F19": [
+        "oppof19",
+        "f19"
+    ],
+    "OPPO F19 Pro": [
+        "oppof19pro",
+        "f19pro"
+    ],
+    "OPPO F19 Pro Plus": [
+        "oppof19proplus",
+        "f19proplus"
+    ],
+    "OPPO F19s": [
+        "oppof19s",
+        "f19s"
+    ],
+    "OPPO Find N": [
+        "oppofindn",
+        "findn"
+    ],
+    "OPPO Find N2 Flip": [
+        "oppofindn2flip",
+        "findn2flip"
+    ],
+    "OPPO Find X5 Pro": [
+        "oppofindx5pro",
+        "findx5pro"
+    ],
+    "OPPO Find X6": [
+        "oppofindx6",
+        "findx6"
+    ],
+    "OPPO Find X6 Pro": [
+        "oppofindx6pro",
+        "findx6pro"
+    ],
+    "OPPO Fine N2": [
+        "oppofinen2",
+        "finen2"
+    ],
+    "OPPO Fine X3": [
+        "oppofinex3",
+        "finex3"
+    ],
+    "OPPO Fine X3 Lite": [
+        "oppofinex3lite",
+        "finex3lite"
+    ],
+    "OPPO Fine X3 Neo": [
+        "oppofinex3neo",
+        "finex3neo"
+    ],
+    "OPPO Fine X3 Pro": [
+        "oppofinex3pro",
+        "finex3pro"
+    ],
+    "OPPO Fine X5": [
+        "oppofinex5",
+        "finex5"
+    ],
+    "OPPO Fine X5 Lite": [
+        "oppofinex5lite",
+        "finex5lite"
+    ],
+    "OPPO K10": [
+        "oppok10",
+        "k10"
+    ],
+    "OPPO K10 5G": [
+        "oppok105g",
+        "k105g"
+    ],
+    "OPPO K10 Pro 5G": [
+        "oppok10pro5g",
+        "k10pro5g"
+    ],
+    "OPPO K9 5G": [
+        "oppok95g",
+        "k95g"
+    ],
+    "OPPO K9 Pro": [
+        "oppok9pro",
+        "k9pro"
+    ],
+    "OPPO K9s": [
+        "oppok9s",
+        "k9s"
+    ],
+    "OPPO Reno 10": [
+        "opporeno10",
+        "reno10"
+    ],
+    "OPPO Reno 10 Pro": [
+        "opporeno10pro",
+        "reno10pro"
+    ],
+    "OPPO Reno 5": [
+        "opporeno5",
+        "reno5"
+    ],
+    "OPPO Reno 5 5G": [
+        "opporeno55g",
+        "reno55g"
+    ],
+    "OPPO Reno 5 Pro": [
+        "opporeno5pro",
+        "reno5pro"
+    ],
+    "OPPO Reno 5 Pro Plus": [
+        "opporeno5proplus",
+        "reno5proplus"
+    ],
+    "OPPO Reno 5F": [
+        "opporeno5f",
+        "reno5f"
+    ],
+    "OPPO Reno 6": [
+        "opporeno6",
+        "reno6"
+    ],
+    "OPPO Reno 6 Lite": [
+        "opporeno6lite",
+        "reno6lite"
+    ],
+    "OPPO Reno 6 Pro": [
+        "opporeno6pro",
+        "reno6pro"
+    ],
+    "OPPO Reno 6 Pro Plus": [
+        "opporeno6proplus",
+        "reno6proplus"
+    ],
+    "OPPO Reno 6Z 5G": [
+        "opporeno6z5g",
+        "reno6z5g"
+    ],
+    "OPPO Reno5 K 5G": [
+        "opporeno5k5g",
+        "reno5k5g"
+    ],
+    "OPPO Reno5 Z": [
+        "opporeno5z",
+        "reno5z"
+    ],
+    "OPPO Reno7 5G": [
+        "opporeno75g",
+        "reno75g"
+    ],
+    "OPPO Reno7 Pro 5G": [
+        "opporeno7pro5g",
+        "reno7pro5g"
+    ],
+    "OPPO Reno7 SE 5G": [
+        "opporeno7se5g",
+        "reno7se5g"
+    ],
+    "OPPO Reno7 Z 5G": [
+        "opporeno7z5g",
+        "reno7z5g"
+    ],
+    "OPPO Reno8": [
+        "opporeno8",
+        "reno8"
+    ],
+    "OPPO Reno8 Pro": [
+        "opporeno8pro",
+        "reno8pro"
+    ],
+    "OPPO Reno8 Pro Plus": [
+        "opporeno8proplus",
+        "reno8proplus"
+    ],
+    "OPPO Reno8 T": [
+        "opporeno8t",
+        "reno8t"
+    ],
+    "OPPO Reno8 T 5G": [
+        "opporeno8t5g",
+        "reno8t5g"
+    ],
+    "OPPO Reno9": [
+        "opporeno9",
+        "reno9"
+    ],
+    "OPPO Reno9 Pro Plus": [
+        "opporeno9proplus",
+        "reno9proplus"
+    ],
+    "OPPO X 2021": [
+        "oppox2021",
+        "x2021"
+    ]
+}
